@@ -163,10 +163,10 @@ header>h2 {
         align-items: center;
         margin-top: 5%;
         margin-bottom: 5%;
-        width: 90%;
+        width: 100%;
     }
     .todos-body {
-        width: 100%;
+        width: 90%;
         height: auto;
         min-height: 300px;
         background-color: #e7e7e7;
