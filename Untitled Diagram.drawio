@@ -1,1 +1,316 @@
-<mxfile host="app.diagrams.net" modified="2021-02-13T11:34:27.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 OPR/74.0.3911.107" version="14.3.1" etag="xPELsnKnh4KMv1ygxMK0" type="github"><diagram id="rvrAf4ZVtbF_O07DqWHI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-13T11:36:21.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 OPR/74.0.3911.107" etag="gpuiB3Cqtsj7SnpVnBIW" version="14.3.1" type="github">
+  <diagram id="rvrAf4ZVtbF_O07DqWHI" name="Page-1">
+    <mxGraphModel dx="1320" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="1590" width="1160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="570" width="1570" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-3" value="ANASAYFA" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="190" y="940" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-4" value="DİL OKULU ARA" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1070" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-7" target="6lJXgiREF2tZnSvDBRYM-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-7" target="6lJXgiREF2tZnSvDBRYM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-7" value="ÖĞRENCİ EKLE" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="460" y="940" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-9" target="6lJXgiREF2tZnSvDBRYM-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-9" value="POTANSİYEL ÖĞRENCİ EKRANI&#xa;&#xa;TARİH (OTOMATİK)&#xa;AD - SOYAD&#xa;E POSTA&#xa;TELEFON&#xa;DANIŞMAN (OTOMATİK BİŞEY SEÇMEZ İSE DEFAULT OLARAK GİRİŞ YAPAN DANIŞMANI SEÇSİN)&#xa;DIŞARDAN DANIŞMAN ATANMAK İSTERSE TÜM DANIŞMANLARIN İSMİ GÖRÜNTÜLENCEK&#xa;&#xa;İLGİLENDİĞİ PROGRAM : &#xa;&#xa;NEREDEN GELDİ :&#xa;- OFIS&#xa;- SOSYAL MEDYA&#xa;-TELEFON&#xa;-ONLINE FORM &#xa;-REFERANS&#xa;&#xa;NOT :&#xa;&#xa;EKLE Buttonu&#xa;&#xa;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="760" y="760" width="770" height="425" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-11" target="6lJXgiREF2tZnSvDBRYM-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-11" value="ÖĞRENCİLER" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1720" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-13" target="6lJXgiREF2tZnSvDBRYM-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-13" value="ÖĞRENCİ GİRİŞ EKRANI" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="190" y="2480" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-15" target="6lJXgiREF2tZnSvDBRYM-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-15" value="Anasayfa" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="210" y="2960" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-17" target="6lJXgiREF2tZnSvDBRYM-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-17" value="Öğrenci" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3468.71" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-19" target="6lJXgiREF2tZnSvDBRYM-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-19" value="Öğrenci" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3860" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-21" target="6lJXgiREF2tZnSvDBRYM-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-21" value="Work And Travel" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="450" y="3860" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-23" target="6lJXgiREF2tZnSvDBRYM-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-23" value="Cihan Koç Öğrenci Detayı" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="700" y="3860" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-25" target="6lJXgiREF2tZnSvDBRYM-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-25" value="Potansiyel öğrenciden - Mevcut Öğrenciye seçtik&#xa;Kaydet Bastık" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="3860" width="470" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-27" target="6lJXgiREF2tZnSvDBRYM-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-27" value="Kayıtlı Öğrenci Ekranı&#xa;Sol Bölümde&#xa;Öğrenci Bilgileri&#xa;Başvuru Formu&#xa;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="3860" width="350" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-30" target="6lJXgiREF2tZnSvDBRYM-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-30" target="6lJXgiREF2tZnSvDBRYM-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-30" value="Öğrenci Genel Bilgileri" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="4050" width="350" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-31" value="Tarih İlk Kayıt Tarihi&#xa;Adı Soyad &#xa;Telefon&#xa;E Mail&#xa;Üniversite ( Değişkenden Seçilecek)&#xa;Ofis Bilgisi&#xa;Sponsor : Değişkenden atakacak &#xa;İşe Yerleşme Durumu : Yerleşti - Yerleşmedi&#xa;Yerleşti Seçildiğinde : Manuel giriş olacak iş girişi yapılacak&#xa;Vize Durumu : Beklemede Vize Onaylandı - Red&#xa;&#xa;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="4000" width="460" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-34" target="6lJXgiREF2tZnSvDBRYM-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-34" target="6lJXgiREF2tZnSvDBRYM-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-34" value="Başvuru Formu" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="4240" width="350" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-37" target="6lJXgiREF2tZnSvDBRYM-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-37" target="6lJXgiREF2tZnSvDBRYM-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-37" value="Sponsor - İş" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="4430" width="350" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-40" target="6lJXgiREF2tZnSvDBRYM-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-40" target="6lJXgiREF2tZnSvDBRYM-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-40" value="VİZE" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="4620" width="350" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-43" target="6lJXgiREF2tZnSvDBRYM-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-43" target="6lJXgiREF2tZnSvDBRYM-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-43" value="CV" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="4810" width="350" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-46" target="6lJXgiREF2tZnSvDBRYM-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-46" target="6lJXgiREF2tZnSvDBRYM-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-46" value="Evraklar" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="5000" width="350" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-48" target="6lJXgiREF2tZnSvDBRYM-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-48" value="CARİ Bakiyesi" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="5190" width="350" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-49" value="&#xa;Program Ücreti :&#xa;Başvuru Ücreti : Alındı Alınmadı&#xa;Kalan Tutar : &#xa;Alındı ise&#xa;Tutar : &#xa;Döviz Bilgisi : Dolar - TL&#xa;Alınan Tarih :&#xa;Günlük Kur&#xa;Yatırılan Hesap : Nakit - Bankalar&#xa;NOT: &#xa;&#xa;Otomatik Makbuz çıksın PDF olarak çıktı alabileilim.&#xa;Kaydet&#xa;&#xa;Öğrenci durum alanında yağılan hareketler yazılsın&#xa;&#xa;----------------------------------------------&#xa;Yönetici olarak giriş yapıldığında görünecek alan&#xa;&#xa;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="5130" width="720" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-50" value="Değişkenden Work And Travel evraklarını adını kendimiz gireceğiz&#xa; Değişkenlerden atanacak.&#xa;&#xa;Bu alan ilk başka work and travel öğrencisini mevcut öğrenciye geçirdiğimizde otomatik &#xa;değişkenlerden atansın" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="5000" width="610" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-51" value="CV konsept oluşturulacak.&#xa;Öğrenci kullanım erkanından giriş yapabilecek ve güncelleyecek&#xa;Danışman kendi ekranından giriş yapıp güncelleyebilecek&#xa;&#xa;PDF olarak çıktı alınabilecek" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="4810" width="460" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-52" value="DS - 160 Numarası : Manuel Yazılacak&#xa;Randevu Tarihi - Saat:&#xa;Konsolosluk : Seçmeli İstanbul - Ankara&#xa;&#xa;NOT: &#xa;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="4620" width="470" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-53" value="Sponsor Adı : Değişkenlerden seçilecek&#xa;İşe Yerleşme Durumu : Yerleşti - Yerleşmedi&#xa;Yerleşti Seçildiğinde : Manuel giriş olacak iş girişi yapılacak" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="4430" width="470" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-54" value="Dosya olarak Burak beye iletilecek&#xa;Orada yazan bilgileri manuel giriş yapıp kaydet diyeceğiz&#xa;yazdır butonu olacak&#xa;&#xa;Öğrenci kullanım panelindende giriş yapılabilsin." style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="4225" width="450" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-56" target="6lJXgiREF2tZnSvDBRYM-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-56" value="Work And Travel" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="450" y="3468.71" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-57" value="Default olarak Potansiyel Öğrenci Anasayfa&#xa;Detaylı Filtreleme ekranı yapılacak&#xa;Birden fazla seçilebilir olacak.Excel deki gibi hariç tut vs olcak&#xa;(Ofis - Üniversite - Cinsiyet - Sınıf - Ortalama - İlgi Seviyesi - Danışmanlar - Arama Durumu : Tarihi Geçen - Bugün Ara - Aranacaklar )&#xa;tüm seçenekler çoklu seçime uygun olsun&#xa;Arama filtresi olacak : Ad soyad - telefon ile öğrenci bul&#xa;Öğrenci ekle tuşu kalsın&#xa;&#xa;Adı Soyadı&#xa;Tel &#xa;İlgi Seviyesi : Sarı : Düşünüyor - Yeşil : İlgili &#xa;İptal seçilirse iptal öğrenci datasında görünecek&#xa;İptal seçilirse alt seçenekler çıkacak (kırmızı)&#xa;İptal Sebepleri : Arama ve Seneye Kayıt Gri - Başka Acenta ve Vazgeçti : Kırmızı&#xa;&#xa;Bir Sonraki Takip Tarihi Görünecek ( Arama Gecikti - Bugün Ara - Aranacak Tarih )&#xa;&#xa;Öğrenci Detayı&#xa;&#xa;Excele Aktar Butonu olsun Tüm datalar" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="715" y="3327.42" width="885" height="392.58" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-59" target="6lJXgiREF2tZnSvDBRYM-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-59" value="Öğrenci Ekle" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="460" y="2960" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-60" value="Tarih : Otomatik gelecek&#xa;Adı -Soyadı&#xa;Telefon&#xa;E Posta&#xa;Danışman&#xa;Nereden Geldi&#xa;İlgilendiği Program: Work And Travel seçildiğinde&#xa;Üniversite : Değişkenden gelecek&#xa;Sınıf : Değişkenden gelecek&#xa;Ortalama :Değişkenden gelecek&#xa;Cinsiyet Değişkenden gelecek&#xa;NOT :&#xa;Takip-1 - Takip 2&#xa;Durum Çubuğu&#xa;İlgi Seviyesi&#xa;--------------------------------------------&#xa;Fiyat Listesi - İş Listesi vb. dosyalar seçilecek ve Mail ile &#xa;Gönderilecek&#xa;&#xa;Kaydet&#xa;&#xa;Hangi dosyaların gönderildiği görüntülenecek" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="700" y="2822.5" width="920" height="385" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-62" target="6lJXgiREF2tZnSvDBRYM-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-62" value="TELEFON NUM&#xa;ÖĞRENCİYE ÖZEL ŞİFRE İLE GİRİŞ&#xa;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2480" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-64" target="6lJXgiREF2tZnSvDBRYM-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-64" value="TEKLİFLERİM" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="800" y="2480" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-66" target="6lJXgiREF2tZnSvDBRYM-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-66" value="ÖĞRENCİYE VERİLEN TEKLİFLER &#xa;GÖRÜNTÜLENECEK&#xa;&#xa;( ONAYLA - İPTAL ET )&#xa;BUTONLARI İLE İSTEDİĞİ OKULLARI SEÇECEK&#xa;&#xa;TEKLİFİ ONAYLA BASTIĞINDA" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="2480" width="360" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-68" target="6lJXgiREF2tZnSvDBRYM-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-68" value="EVRAKLARIM" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="2470" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-70" target="6lJXgiREF2tZnSvDBRYM-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-70" value="ONAYLANAN OKUL BİLGİLERİ AÇILACAK&#xa;&#xa;ALTINDA EVRAK GİRİŞ BİLGİLERİ OLACAK" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="2470" width="350" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-71" value="EVRAK GİRİŞİ YAPABİLECEK&#xa;DANIŞAMAN ONAY VERECEK&#xa;DANIŞMANIN GİRDİĞİ EVRAKLARI ÖĞRENCİ GÖRÜP İNDİREBİLECEK" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="2470" width="530" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-72" value="TEKLİFLERİM" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="2535" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-73" value="PROFİLİM" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="2600" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-74" value="PROFİLİM" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="800" y="2550" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-76" target="6lJXgiREF2tZnSvDBRYM-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-76" value="ÖĞRENCİ ARA&#xa;AD - SOYAD &#xa;§&#xa;TELEFON NUMARA" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1720" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-78" target="6lJXgiREF2tZnSvDBRYM-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-78" value="ÖĞRENCİ ARA&#xa;AD - SOYAD &#xa;§&#xa;TELEFON NUMARA" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1720" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-80" target="6lJXgiREF2tZnSvDBRYM-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-80" value="TEKLİFLER" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1720" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-82" target="6lJXgiREF2tZnSvDBRYM-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-82" value="DAHA ÖNCE VERİLEN TEKLİFLERİ GÖR&#xa;&#xa;YENİ TEKLİF EKLE BUTONU TIKLA" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="1720" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-84" target="6lJXgiREF2tZnSvDBRYM-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-84" value="DİL OKULU ARAMA SAYFASINA YÖNLENDİRİLDİ&#xa;YENİ DİL OKULLARI SEÇ&#xa;TEKLİF OLUŞTURA BAS&#xa;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="1720" width="350" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-86" target="6lJXgiREF2tZnSvDBRYM-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-86" value="ÖĞRENCİ TEKLİF EKRANINA YÖNLENDİRİLDİ&#xa;BURADA SADECE SON EKLEDİĞİMİZ TEKLİFLERİ GÖR&#xa;ESKİ TEKLİFLERİ AYRI BİR BUTON OLARAK&#xa;GÖRÜNTÜLENEBİLSİN.&#xa;&#xa;BU AŞAMA DEVAMI TEKLİF VERME EKRANINDA Kİ GİBİ DEVAM EDECEK&#xa;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="1720" width="580" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-87" value="ÖĞRENCİYE 2. TEKLİF GÖNDERİLDİ&#xa;&#xa;POTANSİYEL ÖĞRENCİ EKRANI AÇILDI DURUM VE TEKLİF SAYISI SEÇİLDİ&#xa;2. TAKİP TARİHİ SEÇİLDİ &#xa;DOSYA KAPATILDI" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2700" y="1720" width="580" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-89" target="6lJXgiREF2tZnSvDBRYM-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-89" value="İLGİLENDİĞİ PROGRAM  : DİL OKULU İSE&#xa;DİL OKULU ARA SAYFASI AÇILACAK&#xa;Öğrenci Adı Soyadı :&#xa;Telefon:&#xa;-----------------------------------&#xa;Ülke : Birden çok seçmeli&#xa;Şehir: Birden Çok Seçmei&#xa;Dil Programları : Genel ingilizce - İş ingilizcesi vs ( Birden çok seçmeli )&#xa;KURS : Genel ingilizce ( Sabah - Öğle )&#xa;&#xa;Yoğun İngilizce ( Sabah - Öğle )&#xa;Yarı Yoğun İngilizce ( Sabah - Öğle )&#xa;&#xa;Program Süresi : Birden çok seçmeli 1- 48 hafta aralığı&#xa;Başlangıç tarihi :&#xa;Konaklama Çeşidi:&#xa;Konaklama Süresi : Birden çok seçmeli&#xa;&#xa;---------------------------------------&#xa;Gelişmiş Arama Butonu&#xa;Okul Adı Seç : Birden çok seçmeli&#xa;Sadece İndirimli Dil Okulları &#xa;Sadece Çalışma izni olan okullar&#xa;&#xa;KONAKLAMA DETAYLI SEÇME &#xa;Kişi Sayısı : Çoklu Seçme &#xa;Banyo : Çoklu Seçme&#xa;Haftalık Öğün : Çoklu Seçme&#xa;&#xa;ARA" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="777.5" width="530" height="584.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-91" target="6lJXgiREF2tZnSvDBRYM-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-91" value="ARA BUTONU BASILDIĞINDA &#xa;&#xa;Okul Adı :&#xa;KURS : Genel ingilizce ( 20 saat )&#xa;Ülke Şehir : İngiltere / Londra&#xa;Program Süresi : 8 Hafta&#xa;Program Fiyatı : 800 $&#xa;Konaklama Çeşiti : Aile Yanı&#xa;Default olarak : Tek kişilik - Ortak Banyo - Haftalık Öğün 14 )&#xa;Konaklama Süresi : 8 HAFTA&#xa;Konaklama Fiyatı : 600 $&#xa;Toplam Fiyatı : $ ve TL karşılığı&#xa;Zorunlu ücretler : Başvuru ücreti - yüksek sezon ücreti vs&#xa;Diğer Masraflar : Sigorta - Uçak Masrafı - Vize masrafı  vs&#xa;&#xa;İndirim kalan süresi : 30 gün kaldı&#xa;&#xa;Okulu Seç Butonu&#xa;&#xa;-------------------------------------------&#xa;Fiyat sıralaması yapılabilecek azdan çoka - çoktan aza&#xa;&#xa;Teklif vermek istediğimiz okulları seçip &#xa;&#xa;TEKLİF OLUŞTUR BUTONUNA BASILACAK" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="777.5" width="530" height="455" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lJXgiREF2tZnSvDBRYM-93" target="6lJXgiREF2tZnSvDBRYM-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-93" value="TEKLİF SAYFASI&#xa;Öğrenci Adı :&#xa;Telefon Numarası :&#xa;&#xa;Seçilen Teklifi Güncelle :&#xa;Öğrenciye Teklif Gönder : Mail - SMS &#xa;Ekrana Yansıt  : &#xa;Seçilen Teklifi İptal Et :&#xa;Yeni Teklif Oluştur&#xa;&#xa;Teklif maddelerine ek olarak : Maltada ki gibi açılıp kapanır pencere modulü ile&#xa; extra ücretler seçilecek fakat fiyata dahil olmayacak sadece&#xa;Extra ücretleri öğrenci görmesi için.&#xa;&#xa;Daha önce teklif verildi ise : Teklif 1 - Teklif 2 - Teklif 3 &#xa;&#xa;TEKLİF ÖĞRENCİYE GÖNDERİLDİKTEN SONRA &gt;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="3140" y="777.5" width="530" height="455" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-94" value="TEKLİF GÖNDERDİLDİKTEN SONRA &#xa;&#xa;Dosya yı kapat ekranı seçilecek.&#xa;Bu alanda öğrenciye &#xa;Takip  tarihleri seçilecek&#xa;Öğrencinin ilgi seviyesi seçilecek : İlgili - düşünüyor vs.&#xa;Durum belirlenecek : Teklif verildi - Onay verildi vs.&#xa;Danışman Notlarını girecek ve dosyayı kapatacak.&#xa;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="3820" y="893.75" width="530" height="222.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-95" value="&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;POTANSİYEL ( DİL OKULU ) ÖĞRENCİ GİRİŞİ&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="612.5" width="790" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-96" value="&lt;span style=&quot;font-size: 48px&quot;&gt;Potansiyel (Dil Okulu 2. TEKLİF )&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="1615" width="720" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-97" value="V&lt;span style=&quot;font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-700%22%20y%3D%221290%22%20width%3D%221160%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2048px%26quot%3B%26gt%3BPotansiyel%20(Dil%20Okulu%20)%20%C3%96%C4%9Frenci%20Ekran%C4%B1%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Bresizable%3D0%3Bautosize%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bpoints%3D%5B%5D%3BfillColor%3Dnone%3BstrokeColor%3Dnone%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-530%22%20y%3D%221315%22%20width%3D%22820%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="2240" width="1160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-98" value="&lt;span style=&quot;font-size: 48px&quot;&gt;Potansiyel (Dil Okulu ) Öğrenci Ekranı&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="2265" width="820" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-99" value="V&lt;span style=&quot;font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-700%22%20y%3D%221290%22%20width%3D%221160%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2048px%26quot%3B%26gt%3BPotansiyel%20(Dil%20Okulu%20)%20%C3%96%C4%9Frenci%20Ekran%C4%B1%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Bresizable%3D0%3Bautosize%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bpoints%3D%5B%5D%3BfillColor%3Dnone%3BstrokeColor%3Dnone%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-530%22%20y%3D%221315%22%20width%3D%22820%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="2770.5" width="1160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-100" value="&lt;span style=&quot;font-size: 48px&quot;&gt;Work and Travel Potansiyel Öğrenci&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="2795.5" width="780" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-101" value="V&lt;span style=&quot;font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-700%22%20y%3D%221290%22%20width%3D%221160%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2048px%26quot%3B%26gt%3BPotansiyel%20(Dil%20Okulu%20)%20%C3%96%C4%9Frenci%20Ekran%C4%B1%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Bresizable%3D0%3Bautosize%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bpoints%3D%5B%5D%3BfillColor%3Dnone%3BstrokeColor%3Dnone%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-530%22%20y%3D%221315%22%20width%3D%22820%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="3720" width="1160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6lJXgiREF2tZnSvDBRYM-102" value="&lt;span style=&quot;font-size: 48px&quot;&gt;Work and Travel Kayıtlı Öğrenci&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2225" y="3745" width="690" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
