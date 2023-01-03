@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Header from "../components/Layout/Header";
+import MainCard from "../components/MainCard";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       </Head>
       <main>
       <Header/>
+        <MainCard/>
       </main>
     </>
   )
