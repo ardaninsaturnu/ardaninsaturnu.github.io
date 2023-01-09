@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Header from "../components/Layout/Header";
 import MainCard from "../components/MainCard";
+import FooterCard from "../components/FooterCard";
 
 export default function Home() {
   return (
