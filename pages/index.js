@@ -12,6 +12,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      { /* TODO: make this website responsive as well */ }
       <div className="h-screen">
           <MainCard/>
           <FooterCard/>
