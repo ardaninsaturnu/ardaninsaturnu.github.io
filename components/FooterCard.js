@@ -1,5 +1,5 @@
 import Image from "next/image";
-import dribble from '../assets/dribbble.svg';
+import medium from '../assets/medium.svg';
 import linkedin from '../assets/linkedin.svg';
 import github from '../assets/github.svg';
 
@@ -15,9 +15,9 @@ const socialLinks = [
     link: 'https://github.com/ardaninsaturnu'
   },
   {
-    name: 'dribble',
-    image: dribble,
-    link: 'https://dribbble.com/graycatstudio'
+    name: 'medium',
+    image: medium,
+    link: 'https://mehmetardacelik.medium.com/'
   }
 ]
 
